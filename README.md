@@ -134,7 +134,7 @@ This project demonstrates how to deploy a **production-ready 3-tier architecture
 
 If this project interests you or you'd like to collaborate:
 
-* 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/)
+* 💼 LinkedIn: [[Your LinkedIn](https://www.linkedin.com/)](https://www.linkedin.com/in/om-aravelliwar-2a27b7331/)
 * 🐙 GitHub: [OmAravelliwar](https://github.com/)
 
 ---
