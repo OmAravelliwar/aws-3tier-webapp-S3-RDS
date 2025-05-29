@@ -78,30 +78,6 @@ This project demonstrates how to deploy a **production-ready 3-tier architecture
 
 ---
 
-## 📸 Screenshots
-
-### 🔹 VPC & Subnet Setup
-
-![VPC Setup](attachment)
-
-### 🔹 EC2 Instances
-
-![EC2 Instances](attachment)
-
-### 🔹 Load Balancers
-
-![Load Balancer](attachment)
-
-### 🔹 Upload Directory with Permissions
-
-![Upload Dir](attachment)
-
-### 🔹 S3 Bucket View
-
-![S3 Bucket](attachment)
-
-### 🔹 RDS Data Entry
-
 ![RDS Result](attachment)
 
 ---
